@@ -1,1 +1,1 @@
-This repository contains the code I wrote for a project I did in my second year at ETH. There are the paper I based my code on and the report I wrote at the end of the project; I also uploaded the code I wrote in cpp.
+This repository contains the code I wrote for a project I did in my second year at ETH. There are the report I wrote at the end of the project and the code I wrote in cpp. The project was based on the paper published at https://academic.oup.com/bioinformatics/article/36/22-23/5282/6033580
