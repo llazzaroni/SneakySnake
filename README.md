@@ -4,7 +4,7 @@
 
 SneakySnake is a high-performance algorithm designed to accelerate the genome sequencing process by providing a fast and efficient pre-alignment filtering technique. It reduces the computational cost associated with sequence alignment by addressing the Sequence-Number Ratio (SNR) problem and offering a low-cost solution to identify incorrect candidate locations in genomic sequences. This repository contains multiple implementations of the algorithm, each optimized for different runtime and memory performance.
 
-The project was developed as part of the P&S Genome Sequencing on Mobile Devices course at ETH Zurich (HS2022).
+The project was developed as part of the P&S Genome Sequencing on Mobile Devices course at ETH Zurich (HS2022). It is based on the paper published at: https://academic.oup.com/bioinformatics/article/36/22-23/5282/6033580
 
 ## Algorithm Overview
 
